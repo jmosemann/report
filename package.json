@@ -1,0 +1,26 @@
+{
+  "name": "herohub-os-report-builder",
+  "version": "1.0.24",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-sans": "^5.1.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.468.0",
+    "mammoth": "^1.8.0",
+    "papaparse": "^5.4.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.14",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {}
+}
